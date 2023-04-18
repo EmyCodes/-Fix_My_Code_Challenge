@@ -24,7 +24,7 @@ class User():
    
     
 if __name__ == "__main__":
-
+    # Makung inexecutable
     u = User()
     u.email = "john@snow.com"
     print(u.email)
